@@ -1,4 +1,4 @@
-# Machine Learning Engineer Nanodegree
+# Udacity - Machine Learning Engineer Nanodegree - Term 1
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
